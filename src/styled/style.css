@@ -1,0 +1,49 @@
+body{
+    background-color: hsl(268, 75%, 9%);
+    color: hsl(52, 100%, 62%);
+}
+
+.form{
+    background-color: hsl(268, 71%, 12%);
+    border-radius: 20px;
+}
+
+.google{
+    width: 80%;
+    height: 50px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    background-color: hsl(281, 89%, 26%);
+    box-shadow: 0px 3px hsl(285, 91%, 52%);
+    border: 2px solid hsl(268, 71%, 12%);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.google:hover{
+    background-color: hsl(285, 91%, 52%);
+    box-shadow: 0px 3px hsl(281, 89%, 26%);
+    border: 2px solid hsl(281, 89%, 26%);
+}
+
+#formBasicName{
+    width: 20vw;
+}
+
+#formBasicEmail{
+    width: 20vw;
+}
+
+#formBasicPassword{
+    width: 20vw;
+}
+
+#formBasicRepitPassword{
+    width: 20vw;
+}
+
+Form{
+   margin-left: 40%;
+}
